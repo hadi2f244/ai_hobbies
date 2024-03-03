@@ -1,0 +1,183 @@
+################ 146.255.96.99 ##################
+NAME            ID              SIZE    MODIFIED     
+llama2:latest   fe938a131f40    3.8 GB  2 months ago
+####################/n
+################ 206.189.241.139 ##################
+NAME                                    ID              SIZE    MODIFIED   
+gdisney/mistral-uncensored:latest       783a351307c9    4.1 GB  4 days ago
+llama2:latest                           78e26419b446    3.8 GB  4 days ago
+llama2-uncensored:latest                44040b922233    3.8 GB  4 days ago
+try:latest                              4a117559b99a    3.8 GB  4 days ago
+wizard-vicuna-uncensored:latest         72fc3c2b99dc    3.8 GB  4 days ago
+####################/n
+################ 149.28.235.240 ##################
+NAME            ID              SIZE    MODIFIED     
+llava:latest    8dd30f6b0cb1    4.7 GB  47 hours ago
+####################/n
+################ 134.102.23.170 ##################
+NAME                    ID              SIZE    MODIFIED     
+neural-chat:latest      f4c6a8e532e8    4.1 GB  2 months ago
+####################/n
+################ 5.182.17.50 ##################
+NAME            ID              SIZE    MODIFIED    
+llama2:latest   78e26419b446    3.8 GB  11 days ago
+####################/n
+################ 82.65.0.59 ##################
+NAME                    ID              SIZE    MODIFIED     
+deepseek-coder:33b      acec7c0b0fd9    18 GB   5 hours ago 
+mixtral:latest          7708c059a8bb    26 GB   6 hours ago 
+oc-devco:latest         e9d8413f2192    26 GB   5 weeks ago 
+sqlcoder:latest         77ac14348387    4.1 GB  2 months ago
+####################/n
+################ 195.201.2.198 ##################
+NAME                    ID              SIZE    MODIFIED    
+dolphin-phi:latest      c5761fc77240    1.6 GB  3 weeks ago
+mistral:instruct        61e88e884507    4.1 GB  3 weeks ago
+mistral:latest          61e88e884507    4.1 GB  3 weeks ago
+####################/n
+################ 174.18.68.211 ##################
+NAME                                    ID              SIZE    MODIFIED    
+codellama:7b-instruct-q8_0              e371f415ddec    7.2 GB  6 days ago 
+deepseek-coder:6.7b-base-q8_0           570c490f997d    7.2 GB  8 days ago 
+deepseek-coder:6.7b-instruct-q8_0       54b58e32d587    7.2 GB  8 days ago 
+llama2:7b                               78e26419b446    3.8 GB  12 days ago
+nomic-embed-text:latest                 0a109f422b47    274 MB  8 days ago 
+####################/n
+################ 90.15.73.127 ##################
+NAME                                    ID              SIZE    MODIFIED    
+hub/chirag/chloe:latest                 994b17789642    395 MB  3 weeks ago
+hub/cryptonaut/rufus:latest             63be2866963a    35 GB   9 days ago 
+hub/kamjin/english-teacher:latest       a2d8885dfb70    3.8 GB  3 weeks ago
+hub/samm/code-companion:latest          c2734dd7caf7    5.1 GB  2 weeks ago
+hub/stewart/multi-agent:latest          8cc6e95685ac    3.8 GB  3 weeks ago
+bakllava:latest                         3dd68bd4447c    4.7 GB  3 weeks ago
+dolphin-mixtral:latest                  cfada4ba31c7    26 GB   3 weeks ago
+functionary-small:latest                aab166639abc    4.1 GB  4 weeks ago
+functionary-small-v2.2.q8_0:latest      d403c6bfdaed    7.7 GB  4 weeks ago
+functionry-small-2:latest               9fd02a6cc18a    4.1 GB  3 weeks ago
+gemma:2b                                b50d6c999e59    1.7 GB  8 days ago 
+leitor-pdf-do-chat:latest               388489242f2c    8.2 GB  2 weeks ago
+llama-pro:latest                        fc5c0d744444    4.7 GB  3 weeks ago
+llama2:latest                           78e26419b446    3.8 GB  3 weeks ago
+llava:latest                            8dd30f6b0cb1    4.7 GB  3 weeks ago
+mistral:latest                          61e88e884507    4.1 GB  3 weeks ago
+nomic-embed-text:latest                 0a109f422b47    274 MB  6 days ago 
+openchat:7b-v3.5-0106-q5_K_S            6ed7bb1af154    5.0 GB  2 weeks ago
+openhermes:latest                       95477a2659b7    4.1 GB  2 weeks ago
+qwen:0.5b-chat                          b5dc5e784f2a    394 MB  3 weeks ago
+qwen:14b                                80362ced6553    8.2 GB  3 weeks ago
+zephyr:7b-beta-q5_K_M                   482c06dc081a    5.1 GB  2 weeks ago
+rfc/whiterabbitneo:latest               05e6d79db08d    7.4 GB  3 weeks ago
+theepicdev/nomic-embed-text:v1.5-q6_K   74f308ef56d4    113 MB  11 days ago
+####################/n
+################ 148.251.126.28 ##################
+NAME                                    ID              SIZE    MODIFIED     
+based:latest                            893fa2e915d4    4.1 GB  2 months ago
+dolphin-mistral:latest                  206a4093ff30    4.1 GB  2 months ago
+dolphin-mixtral:8x7b-v2.6-q3_K_M        0c09054f5b87    20 GB   2 months ago
+dolphin-mixtral:8x7b-v2.6.1-q2_K        258fc86492f2    15 GB   2 months ago
+dolphin-mixtral:latest                  4b33b01bf336    26 GB   2 months ago
+dolphin-phi:latest                      c5761fc77240    1.6 GB  2 months ago
+gemma:latest                            430ed3535049    5.2 GB  8 days ago  
+llama2:latest                           fe938a131f40    3.8 GB  3 months ago
+wizard-vicuna-uncensored:latest         72fc3c2b99dc    3.8 GB  3 months ago
+####################/n
+################ 177.39.16.147 ##################
+NAME                    ID              SIZE    MODIFIED    
+linux:latest            92eeb5277e36    3.8 GB  7 weeks ago
+llama2:latest           78e26419b446    3.8 GB  7 weeks ago
+llama2-uncensored:7b    44040b922233    3.8 GB  7 weeks ago
+mistral:latest          61e88e884507    4.1 GB  7 weeks ago
+mixtral:latest          7708c059a8bb    26 GB   6 weeks ago
+rodrigo:latest          903cbbfe1a34    4.1 GB  7 weeks ago
+####################/n
+################ 116.203.32.89 ##################
+NAME            ID              SIZE    MODIFIED     
+llama2:latest   78e26419b446    3.8 GB  35 hours ago
+####################/n
+################ 128.140.68.64 ##################
+NAME                    ID              SIZE    MODIFIED     
+gemma:2b                b50d6c999e59    1.7 GB  33 hours ago
+llama2:70b              e7f6c06ffef4    38 GB   34 hours ago
+llama2:latest           78e26419b446    3.8 GB  35 hours ago
+mario:latest            47a94d35e34b    1.7 GB  32 hours ago
+stablelm-zephyr:latest  0a108dbd846e    1.6 GB  32 hours ago
+####################/n
+################ 167.86.73.55 ##################
+NAME                            ID              SIZE    MODIFIED    
+llama2:13b                      d475bf4c50bc    7.4 GB  4 weeks ago
+llama2:70b                      e7f6c06ffef4    38 GB   4 weeks ago
+llama2:latest                   78e26419b446    3.8 GB  5 weeks ago
+llama2-uncensored:latest        44040b922233    3.8 GB  4 weeks ago
+mistral:latest                  61e88e884507    4.1 GB  5 weeks ago
+openchat:latest                 537a4e03b649    4.1 GB  5 weeks ago
+orca-mini:latest                2dbd9f439647    2.0 GB  4 weeks ago
+phi:latest                      e2fd6321a5fe    1.6 GB  4 weeks ago
+####################/n
+################ 120.26.2.79 ##################
+NAME            ID              SIZE    MODIFIED   
+llama2:latest   78e26419b446    3.8 GB  5 days ago
+####################/n
+################ 161.53.65.116 ##################
+NAME                            ID              SIZE    MODIFIED    
+mistral:7b-instruct-v0.2-q5_K_M bec2cbe92b28    5.1 GB  6 weeks ago
+neural-chat:7b-v3.3-q5_K_M      6e7f6242bbec    5.1 GB  7 weeks ago
+####################/n
+################ 34.69.13.91 ##################
+Error: Head "http://34.69.13.91:11434/": dial tcp 34.69.13.91:11434: i/o timeout
+####################/n
+################ 93.55.241.1 ##################
+Error: could not connect to ollama app, is it running?
+####################/n
+################ 198.16.209.13 ##################
+NAME            ID              SIZE    MODIFIED    
+openchat:latest 537a4e03b649    4.1 GB  3 weeks ago
+####################/n
+################ 138.201.193.232 ##################
+NAME                            ID              SIZE    MODIFIED       
+gemma:latest                    430ed3535049    5.2 GB  40 minutes ago
+llama2:latest                   78e26419b446    3.8 GB  40 minutes ago
+llama2-uncensored:latest        44040b922233    3.8 GB  40 minutes ago
+llava:latest                    8dd30f6b0cb1    4.7 GB  40 minutes ago
+mistral:latest                  61e88e884507    4.1 GB  40 minutes ago
+mixtral:latest                  7708c059a8bb    26 GB   40 minutes ago
+####################/n
+################ 34.205.231.148 ##################
+NAME                                    ID              SIZE    MODIFIED     
+dolphin-mixtral:8x7b-v2.6               c0a7e661bf0f    26 GB   2 months ago
+dolphin-mixtral:8x7b-v2.6-q3_K_L        852dd1096742    20 GB   2 months ago
+dolphin-mixtral:8x7b-v2.6-q4_0          c0a7e661bf0f    26 GB   2 months ago
+dolphin-mixtral:latest                  4b33b01bf336    26 GB   2 months ago
+####################/n
+################ 89.163.254.60 ##################
+NAME                                                    ID              SIZE    MODIFIED    
+hub/chmurli/sarah-lovely-caring-girlfriend:latest       046e24fbb5c7    4.1 GB  2 weeks ago
+hub/based-dolphin-mixtral:latest                        66372f603d83    26 GB   2 weeks ago
+dolphin-mistral:latest                                  ecbf896611f5    4.1 GB  2 weeks ago
+dolphin-mixtral:latest                                  cfada4ba31c7    26 GB   2 weeks ago
+emilywaifu:latest                                       293990da8cb0    4.1 GB  2 weeks ago
+llava:latest                                            8dd30f6b0cb1    4.7 GB  2 weeks ago
+mistral:latest                                          61e88e884507    4.1 GB  2 weeks ago
+####################/n
+################ 168.119.10.236 ##################
+NAME            ID              SIZE    MODIFIED     
+llama2:70b      c3a7af098300    38 GB   3 months ago
+mistral:7b      d364aa8d131e    4.1 GB  3 months ago
+####################/n
+################ 143.47.236.127 ##################
+NAME            ID              SIZE    MODIFIED     
+llama2:latest   fe938a131f40    3.8 GB  3 months ago
+####################/n
+################ 141.95.173.26 ##################
+NAME                    ID              SIZE    MODIFIED     
+starling-lm:latest      ff4752739ae4    4.1 GB  2 months ago
+vicuna:13b-16k          4ea0e2b82bc2    7.4 GB  2 months ago
+vicuna:7b-16k           e17473565403    3.8 GB  2 months ago
+####################/n
+################ 148.113.136.146 ##################
+NAME                                    ID              SIZE    MODIFIED    
+ifioravanti/neuralbeagle14-7b:7b-q8_0   35681f4b3e06    7.7 GB  6 weeks ago
+llava:7b-v1.6-mistral-fp16              9fd1e5417c5f    15 GB   3 weeks ago
+neural-chat:7b-v3.3-fp16                7b7e1b58d372    14 GB   6 weeks ago
+####################/n
+################ 128.140.37.238 ##################
